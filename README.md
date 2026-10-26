@@ -10,18 +10,18 @@ skills across AWS and Azure, aligned with the SA cybersecurity job market.
 ## Environment
 | Component       | Details                        |
 |-----------------|-------------------------------|
-| Hypervisor      | VirtualBox 7.x                |
+| Hypervisor      | VirtualBox 7.0.6            |
 | Security OS     | Kali Linux 2024.x             |
 | Cloud (AWS)     | af-south-1 (Cape Town)        |
 | Cloud (Azure)   | South Africa North (JHB)      |
-| Host OS         | Windows 11 / Ubuntu xx.xx     |
+| Host OS         | MAC OS / Ventura 13.7.8   |
 
 ## Tools Installed
-- Nmap x.xx — network scanning
-- Wireshark x.x — packet analysis
+- Nmap 7.99 — network scanning
+- Wireshark 4.6.6 — packet analysis
 - AWS CLI x.x — cloud management
 - Azure CLI x.x — cloud management
-- Python 3.x + boto3 — automation
+- Python 3.14.6 + boto3 — automation
 
 ## Security Controls Implemented
 - Root MFA enabled on AWS
